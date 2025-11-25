@@ -1,7 +1,5 @@
 # Practica-de-recursividad
 
-# Práctica de Recursividad
-
 **Asignatura:** Algoritmos Clásicos y Estructuras de Datos  
 **Estudiante:** Jean Carlos Cruz Fernandez
 
